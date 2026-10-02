@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.pkl
+data/raw/*.csv
+data/processed/*.csv
+!reports/screenshots/*.png
+*.log
+.DS_Store
