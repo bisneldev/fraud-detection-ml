@@ -351,7 +351,7 @@ Ce projet est **complémentaire** de mon projet d'analyse du risque crédit :
 - 🎓 Ingénierie Financière — Sciences et Techniques Comptables et Financières
 - 💼 Finance, Audit, Contrôle de gestion + Développement d'applications
 - 📍 Libreville, Gabon
-- 📧 [ton.email@example.com](mailto:bisneldev@gmail.com)
+- 📧 [bisneldev@gmail.com](mailto:bisneldev@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bisnel-nzamba)
 - 🐙 [GitHub](https://github.com/bisneldev)
 
